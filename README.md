@@ -1,10 +1,13 @@
 ### Hi there 👋
 
  About Me ...
-✔ I'm an aspiring Full Stack Developer located in Ireland
-✔ I’m currently learning Machine Learning and data visualisation.
-✔ I’m looking for an opportunities for Software Enginner
-✔ If you have any questions or are interested in working together, please don't hesitate to reach out. 😉
+ ✔ I'm an aspiring Full Stack Developer located in Ireland
+	
+ ✔ I’m currently learning Machine Learning and data visualisation
+	
+ ✔ I’m looking for an opportunity for a Software Enginner
+	
+ ✔ If you have any questions or are interested in working together, please don't hesitate to reach out. 😉
 
 📫 How to reach me:
    
@@ -15,6 +18,7 @@
   - Personal website: https://steelzen.me/
   
   Languages and Tools ...
+		
 ⚡ Experiences:
 Server_less_Api Development Web Development App Development RESTful API Development
 
