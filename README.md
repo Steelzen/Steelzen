@@ -1,6 +1,7 @@
 ### Hi there 👋
 
  About Me ...
+ 
  ✔ I'm an aspiring Full Stack Developer located in Ireland
 	
  ✔ I’m currently learning Machine Learning and data visualisation
