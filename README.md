@@ -20,16 +20,16 @@
   
 		
 ### ⚡ Experiences:
-Server_less_Api   Development Web Development   App Development   RESTful API Development   Mobile Development
+Server_less_Api   	Development Web Development  	 App Development   	RESTful API Development 	  Mobile Development
 
 ### 🕸️ Web development tool:
-HTML5   CSS3   JavaScript   React.js   TailwindCSS   Sass   Bootstrap   Jquery   Three.js
+HTML5   	CSS3	  JavaScript   	React.js   	TailwindCSS   	Sass  	 Bootstrap   	Jquery   	Three.js
 
 ### 📚 Languages:
-Java   C   C++   JavaScript   Kotlin   PHP   Python   Node.js   Numpy   Panda   Keras   TensorFlow   JSP   Servlet   SpringBoot  
+Java   	C   	C++   	JavaScript   	Kotlin   	PHP   	Python   	Node.js   	Numpy   	Panda  		TensorFlow   	JSP   	Servlet   	SpringBoot  
 
 ### 🔧 Frameworks:
-React.js   Three.js   React-Native   Maven   Gradle
+React.js   	Three.js   	React-Native   	Maven   	Gradle
 
 ### ⚙️ CI/CD
 Docker
