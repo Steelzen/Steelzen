@@ -20,7 +20,7 @@
   
 		
 ### ⚡ Experiences:
-Server_less_Api   	Development Web Development  	 App Development   	RESTful API Development 	  Mobile Development
+Development Web Development  	 App Development   	RESTful API Development 	  Mobile Development
 
 ### 🕸️ Web development tool:
 HTML5   	CSS3	  JavaScript   	React.js   	TailwindCSS   	Sass  	 Bootstrap   	Jquery   	Three.js
