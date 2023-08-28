@@ -6,6 +6,8 @@ You can see my all projects here
 
 - 📫 How to reach me:
   Email: katalogin88@gmail.com
+  
   LinkedIn: https://www.linkedin.com/in/taehyung-kwon/
+  
   Personal website: https://steelzen.me/
 
