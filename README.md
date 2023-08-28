@@ -20,9 +20,9 @@
   
 		
 ### ⚡ Experiences:
-Web Development  	 App Development   	RESTful API Development 	  Mobile Development
+Web-Development  	 App-Development   	RESTful-API-Development 	  Mobile-Development
 
-### 🕸️ Web development tool:
+### 🕸️ Web development tools:
 HTML5   	CSS3	  JavaScript   	React.js   	TailwindCSS   	Sass  	 Bootstrap   	Jquery   	Three.js
 
 ### 📚 Languages:
