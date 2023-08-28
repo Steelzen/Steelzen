@@ -6,7 +6,7 @@
 	
  ✔ I’m currently learning Machine Learning and data visualisation
 	
- ✔ I’m looking for an opportunity for a Software Enginner
+ ✔ I’m looking for an opportunity for a Software Engineer
 	
  ✔ If you have any questions or are interested in working together, please don't hesitate to reach out. 😉
 
