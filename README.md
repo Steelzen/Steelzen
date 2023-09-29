@@ -26,10 +26,10 @@ Web-Development  	 App-Development   	RESTful-API-Development 	  Mobile-Developm
 HTML5   	CSS3	  JavaScript   	React.js   	TailwindCSS   	Sass  	 Bootstrap   	Jquery   	Three.js
 
 ### 📚 Languages:
-Java   	C   	C++   	JavaScript   	Kotlin   	PHP   	Python   	Node.js   	Numpy   	Panda  		TensorFlow   	JSP   	Servlet   	
+Java   	C   	C++   	JavaScript   	Kotlin   	PHP   	Python   	Node.js  	
 
 ### 🔧 Frameworks:
-React.js   	Three.js   	React-Native   SpringBoot 	 Django		Maven   	Gradle
+React.js   	Three.js   	React-Native   SpringBoot 	 Django		Maven   	Gradle       TensorFlow       Numpy   	 Panda 
 
 ### ⚙️ CI/CD
 Docker
