@@ -32,4 +32,4 @@ Java   	C   	C++   	JavaScript   	Kotlin   	PHP   	Python   	Node.js
 React.js   	Three.js   	React-Native   SpringBoot 	 Django		Maven   	Gradle       TensorFlow       Numpy   	 Panda 
 
 ### ⚙️ CI/CD
-Docker
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
