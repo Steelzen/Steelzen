@@ -20,10 +20,17 @@
   
 		
 ### ⚡ Experiences:
-Web-Development  	 App-Development   	RESTful-API-Development 	  Mobile-Development
+![Static Badge](https://img.shields.io/badge/Web%20Development-%23D1D0CE)
+![Static Badge](https://img.shields.io/badge/Mobile%20Development-%239B9A96)
+![Static Badge](https://img.shields.io/badge/RESTful%20API-%239B9A96)
+![Static Badge](https://img.shields.io/badge/Desktop%20Application-%239B9A96)
+
 
 ### 🕸️ Web development tools:
-TailwindCSS   	Sass  	 Bootstrap   	Jquery   	Three.js
+![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%23EBF4FA?logo=tailwind%20css)
+![Static Badge](https://img.shields.io/badge/Bootstrap-%23ADDFFF?logo=bootstrap)
+![Static Badge](https://img.shields.io/badge/jQuary-grey?logo=Jquery)
+![Static Badge](https://img.shields.io/badge/Tree.js-blue?logo=three.js)
 
 ### 📚 Languages:
 ![Static Badge](https://img.shields.io/badge/Java-blue?logo=Java)
