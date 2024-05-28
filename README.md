@@ -2,11 +2,9 @@
 
 ### About Me ...
  
- ✔ I'm an aspiring Full Stack Developer
+ ✔ I'm an aspiring Software Engineer
 	
  ✔ I’m currently learning Machine Learning and data visualisation
-	
- ✔ I’m looking for an opportunity for a Software Engineer
 	
  ✔ If you have any questions or are interested in working together, please don't hesitate to reach out. 😉
 
