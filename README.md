@@ -2,9 +2,7 @@
 
 ### About Me ...
  
- ✔ I'm an aspiring Software Engineer
-	
- ✔ I’m currently learning Machine Learning and data visualisation
+ ✔ I'm an aspiring Software Engineer with full-stack development skills
 	
  ✔ If you have any questions or are interested in working together, please don't hesitate to reach out. 😉
 
