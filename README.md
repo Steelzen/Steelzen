@@ -2,8 +2,12 @@
 
 ### About Me ...
  
- ✔ I'm an aspiring Software Engineer with full-stack development skills
-	
+ ✔ I'm an aspiring Software Engineer with full-stack development skills.
+
+ ✔ Proven experience in the development of server platforms dealing with large-scale data.
+
+ ✔ Specialized in microservices architecture.
+ 	
  ✔ If you have any questions or are interested in working together, please don't hesitate to reach out. 😉
 
 ### 📫 How to reach me:
