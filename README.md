@@ -30,7 +30,7 @@
 ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%23EBF4FA?logo=tailwind%20css)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%23ADDFFF?logo=bootstrap)
 ![Static Badge](https://img.shields.io/badge/jQuary-grey?logo=Jquery)
-![Static Badge](https://img.shields.io/badge/Tree.js-blue?logo=three.js)
+![Static Badge](https://img.shields.io/badge/Three.js-blue?logo=three.js)
 
 ### 📚 Languages:
 ![Static Badge](https://img.shields.io/badge/Java-blue?logo=Java)
